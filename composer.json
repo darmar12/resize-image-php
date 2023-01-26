@@ -1,0 +1,7 @@
+{
+    "name": "dima/image-resize.loc",
+    "type": "project",
+    "require": {
+        "imagine/imagine": "^1.3"
+    }
+}
